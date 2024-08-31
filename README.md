@@ -11,7 +11,7 @@
 
 ## Overview:
 
-The Campus Item Issuance System is an efficient web application designed to simplify the process of borrowing items from campus security. It offers an intuitive interface for students to manage their item requests, supported by secure OTP-based authentication. Leveraging MongoDB for data storage, the system ensures effective management and quick retrieval of records.
+The Campus Item Issuance Portal is an efficient web application designed to simplify the process of borrowing items from campus security. It offers an intuitive interface for students to manage their item requests, supported by secure OTP-based authentication. Leveraging MongoDB for data storage, the system ensures effective management and quick retrieval of records.
 
 ## Key Features:
 
