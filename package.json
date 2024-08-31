@@ -1,0 +1,31 @@
+{
+  "name": "helpsecurity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhiitg/HelpSecurity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhiitg/HelpSecurity/issues"
+  },
+  "homepage": "https://github.com/sudhiitg/HelpSecurity#readme",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "prompt-sync": "^4.2.0"
+  }
+}
